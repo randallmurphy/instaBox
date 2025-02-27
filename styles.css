@@ -1,5 +1,11 @@
-/* *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-} */
+
+body > #header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+#footer > ul {
+        display: flex;
+        flex-direction: row;
+    }
